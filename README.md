@@ -36,5 +36,6 @@ Hi there 👋,
 ⚡ Fun fact:
   I've always dreamed of owning a Ferrari and I'm determined to become one of the best machine learning research scientists ever!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuAjay)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuAjay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MuthuAjay&theme=dark)](https://git.io/streak-stats)
