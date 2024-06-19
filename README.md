@@ -1,4 +1,6 @@
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MuthuAjay&theme=dark)](https://git.io/streak-stats)
+
 - :telescope: About ME
   - I am a passionate Data Scientist and Deep Learning Engineer with extensive experience in developing, implementing, and optimizing machine learning models.
   - My journey in the world of data science and AI has been marked by diverse projects, ranging from image classification and clustering to developing end-to-end data quality solutions.
@@ -40,4 +42,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuAjay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MuthuAjay&theme=dark)](https://git.io/streak-stats)
