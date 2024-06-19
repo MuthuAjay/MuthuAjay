@@ -1,8 +1,7 @@
-Hi there 👋, 
-  I'm Muthu Ajay
-  I am a passionate Data Scientist and Deep Learning Engineer with extensive experience in developing, implementing, and optimizing machine learning models.
-  My journey in the world of data science and AI has been marked by diverse projects, ranging from image classification and clustering to developing end-to-end data quality solutions.
-  
+
+- :telescope: I am a passionate Data Scientist and Deep Learning Engineer with extensive experience in developing, implementing, and optimizing machine learning models.
+  My journey in the world of data science and AI has been marked by diverse projects, ranging from image classification and clustering to developing end-to-end data quality solutions .
+
 🔭 What I’m working on:
   Building advanced AI models and fine-tuning them for specific applications.
   Developing a chatbot using LLMs to provide accurate answers based on trained data.
@@ -35,6 +34,13 @@ Hi there 👋,
     
 ⚡ Fun fact:
   I've always dreamed of owning a Ferrari and I'm determined to become one of the best machine learning research scientists ever!
+
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuAjay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
