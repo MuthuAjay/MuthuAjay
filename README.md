@@ -18,7 +18,8 @@
 ###
 
 - :telescope: About ME
-  Machine Leaning Engineer, Love to Code
+- 
+  Machine Leaning Engineer, Loves to Code
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuAjay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
